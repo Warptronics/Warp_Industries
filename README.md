@@ -1,4 +1,4 @@
-# Vacuum Computer Project
+# Vacuum Computers
 
 This repository contains the theoretical design and components for a **Vacuum Computer Model**, a speculative and advanced computing system based on scalar waves, aetheric fields, and quantum field principles. This README outlines the purpose of the project, its structure, and its key components.
 
