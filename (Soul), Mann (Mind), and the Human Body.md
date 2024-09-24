@@ -1,3 +1,5 @@
+![Screenshot 2024-09-24 at 09 49 38](https://github.com/user-attachments/assets/7c83f0f6-3203-4ce3-b146-0b731df48da5)
+
 (Soul), Mann (Mind), and the Human Body, with certain components acting as functional controllers in the system.
 
 Here’s an interpretation based on the diagram:
